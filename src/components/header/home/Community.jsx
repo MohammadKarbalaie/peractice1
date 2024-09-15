@@ -10,7 +10,7 @@ export default function Community(){
             <div id="frame" className="flex flex-row gap-44 justify-center">
                 <div className="shadow-shadow1 rounded-2xl py-6 px-6">
                         <div className="flex flex-col items-center "> 
-                            <div><img src="./src/assets/icon/icon2.png" alt="icon3" /></div>
+                            <div><img src="./src/assets/icon/community/icon2.png" alt="icon3" /></div>
                             <div className="w-[268px] font-semibold text-Natural_D_Gray text-2xl text-center my-3"><p>Membership Organisations</p></div>
                         </div>
                         <div className="w-[268px]">
@@ -19,7 +19,7 @@ export default function Community(){
                 </div>
                 <div className="shadow-shadow1 rounded-2xl py-6 px-6">
                         <div className="flex flex-col items-center"> 
-                            <div><img src="./src/assets/icon/icon2.png" alt="icon2" /></div>
+                            <div><img src="./src/assets/icon/community/icon2.png" alt="icon2" /></div>
                             <div className="w-[228px] font-semibold text-Natural_D_Gray text-2xl text-center my-3"><p>National Associations</p></div>
                         </div>
 
@@ -29,7 +29,7 @@ export default function Community(){
                 </div>
                 <div className="shadow-shadow1 rounded-2xl py-6 px-6">
                        <div className="flex flex-col items-center"> 
-                            <div><img src="./src/assets/icon/icon3.png" alt="icon3" /></div>
+                            <div><img src="./src/assets/icon/community/icon3.png" alt="icon3" /></div>
                             <div className="w-[188px] font-semibold text-Natural_D_Gray text-2xl text-center my-3"><p>Clubs And Groups</p></div>
                         </div>
                         <div className="w-[268px]">
