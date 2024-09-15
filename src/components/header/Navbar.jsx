@@ -1,8 +1,8 @@
 export default function Navbar(){
     return(
-    <div className="flex justify-between items-center font-Inter pb-4">
+    <div className="flex justify-evenly items-center font-Inter pb-4">
     
-            <div className="w-full flex gap-4 font-semibold text-2xl">
+            <div className="w-full flex gap-4 font-semibold text-2xl ml-20 mr-[-150px]">
                 <img src="./src/assets/Logo.png" alt="logo" />   
                 <p>Nexcent</p>
             </div>   
