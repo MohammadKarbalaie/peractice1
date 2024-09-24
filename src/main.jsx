@@ -1,6 +1,5 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './App.jsx'
 import './index.css'
 import Navbar from './components/header/Navbar.jsx'
 import Hero from './components/header/home/Hero-Section.jsx'
@@ -27,6 +26,5 @@ createRoot(document.getElementById('root')).render(
     <Communityupdates/>
     <FooterTop/>
     <FooterBig/>
-    <App />
   </StrictMode>,
 )
